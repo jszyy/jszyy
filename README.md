@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 |Base Info|Dashboard Data|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
-| __Hi, I am JsZyy! 👋__<br/><br/>1. 🔭 I’m currently working on Shanghai, China<br/>2. 🌱 I’m currently learning JavaScript and NodeJs. <br/>3. 📫 How to reach me: zhangyuyin.com<br/>4. 💬 Leave me a word : https://github.com/jszyy/blogs/issues/new | [![reng99's github stats](https://github-readme-stats.vercel.app/api?username=jszyy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+| __Hi, I am JsZyy! 👋__<br/><br/>1. 🔭 I’m currently working on Shanghai, China<br/>2. 🌱 I’m currently learning JavaScript and NodeJs. <br/>3. 📫 How to reach me: yuyin.zhang@outlook.com<br/>4. 💬 Leave me a word : zhangyuyin.com/comment | [![reng99's github stats](https://github-readme-stats.vercel.app/api?username=jszyy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
